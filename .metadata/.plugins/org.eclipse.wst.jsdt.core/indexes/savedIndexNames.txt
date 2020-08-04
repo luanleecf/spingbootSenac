@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Luan Lee\Desktop\FACULDADE 2020.2\STRUC\AULAS\sping\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+279464321.index
